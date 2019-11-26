@@ -39,5 +39,5 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - [香侬读 | Transformer中warm-up和LayerNorm的重要性探究](https://zhuanlan.zhihu.com/p/84614490)
 - [【AI初识境】为了围剿SGD大家这些年想过的那十几招(从momentum到Adabound)](https://zhuanlan.zhihu.com/p/57860231)
 
-### English Blog
+## English Blog
 - [AdamW and Super-convergence is now the fastest way to train neural nets](https://www.fast.ai/2018/07/02/adam-weight-decay/) [[Chinese translation version]](https://www.jiqizhixin.com/articles/2018-07-03-14)
