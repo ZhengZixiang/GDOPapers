@@ -16,6 +16,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - ADADELTA: An Adaptive Learning Rate Method (CoRR 2012) [[paper]](https://arxiv.org/abs/1212.5701) - *Adadelta*
 - Adam: A Method for Stochastic Optimization (ICLR 2015) [[paper]](https://arxiv.org/abs/1412.6980) - *Adam & AdaMax*
 - Incorporating Nesterov Momentum into Adam (ICLR 2016 Workshop) [[paper]](https://openreview.net/forum?id=OM0jvwB8jIp57ZJjtNEZ&noteId=OM0jvwB8jIp57ZJjtNEZ) - *Nadam*
+- Adafactor: Adaptive Learning Rates with Sublinear Memory Cost (ICML 2018) [[paper]](http://proceedings.mlr.press/v80/shazeer18a.html)
 - The Marginal Value of Adaptive Gradient Methods in Machine Learning (NIPS 2017) [[paper]](https://arxiv.org/abs/1705.08292)
 - On the Convergence of Adam and Beyond (ICLR 2018) [[paper]](https://openreview.net/forum?id=ryQu7f-RZ) - *AMSGrad*
 - Decoupled Weight Decay Regularization (ICLR 2019) [[paper]](https://arxiv.org/abs/1711.05101) - *AdamW*
