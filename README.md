@@ -27,6 +27,9 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - On the Variance of the Adaptive Learning Rate and Beyond (ICLR 2020 Under Review) [[paper]](https://arxiv.org/abs/1908.03265)[[code]](https://github.com/LiyuanLucasLiu/RAdam)[[A Zhihu Answer]](https://www.zhihu.com/question/340834465/answer/810512064) - *RAdam*
 - New Deep Learning Optimizer, Ranger: Synergistic Combination of RAdam + LookAhead for The Best of Both [[blog]](https://medium.com/@lessw/new-deep-learning-optimizer-ranger-synergistic-combination-of-radam-lookahead-for-the-best-of-2dc83f79a48d)[[code]](https://github.com/lessw2020/Ranger-Deep-Learning-Optimizer) - *Ranger*
 
+### Multi-Task Learning
+- GradNorm: Gradient Normalization for Adaptive Loss Balancing in Deep Multitask Networks (ICML 2018) [[paper]](http://proceedings.mlr.press/v80/chen18a.html)
+
 ## Survey
 - An Overview of Gradient Descent Optimization Algorithms (CoRR 2016) [[paper]](https://arxiv.org/abs/1609.04747)
 
