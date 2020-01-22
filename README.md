@@ -26,6 +26,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - Lookahead Optimizer: k steps forward, 1 step back (CoRR 2019) [[paper]](https://arxiv.org/abs/1907.08610) - ***Lookahead***
 - On the Variance of the Adaptive Learning Rate and Beyond (ICLR 2020 Under Review) [[paper]](https://arxiv.org/abs/1908.03265)[[code]](https://github.com/LiyuanLucasLiu/RAdam)[[A Zhihu Answer]](https://www.zhihu.com/question/340834465/answer/810512064) - ***RAdam***
 - New Deep Learning Optimizer, Ranger: Synergistic Combination of RAdam + LookAhead for The Best of Both [[blog]](https://medium.com/@lessw/new-deep-learning-optimizer-ranger-synergistic-combination-of-radam-lookahead-for-the-best-of-2dc83f79a48d)[[code]](https://github.com/lessw2020/Ranger-Deep-Learning-Optimizer) - ***Ranger***
+- An Adaptive and Momental Bound Method for Stochastic Learning (CoRR 2019) [[paper]](https://arxiv.org/abs/1910.12249)[[code]](https://github.com/lancopku/AdaMod) - ***AdaMod***
 
 ### Multi-Task Learning
 - GradNorm: Gradient Normalization for Adaptive Loss Balancing in Deep Multitask Networks (ICML 2018) [[paper]](http://proceedings.mlr.press/v80/chen18a.html)
@@ -39,10 +40,15 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle (NeurIPS 2019) [[paper]](https://arxiv.org/abs/1905.00877)[[code]](https://github.com/a1600012888/YOPO-You-Only-Propagate-Once) - ***YOPO***
 - FreeLB: Enhanced Adversarial Training for Language Understanding (CoRR 2019) [[paper]](https://arxiv.org/abs/1909.11764) - ***FreeLB***
 - SMART: Robust and Efficient Fine-Tuning for Pre-trained Natural Language Models through Principled Regularized Optimization (CoRR 2019) [[paper]](https://arxiv.org/abs/1911.03437) - ***SMART***
+
 ## Survey
 - An Overview of Gradient Descent Optimization Algorithms (CoRR 2016) [[paper]](https://arxiv.org/abs/1609.04747)
 
-## Chinese Blog
+## Repository & Tool
+- [lessw2020/Best-Deep-Learning-Optimizers](https://github.com/lessw2020/Best-Deep-Learning-Optimizers) - Collection of the latest, greatest, deep learning optimizers for PyTorch - ***DiffMod***
+
+## Blog Post
+### Chinese Blog
 - [“让Keras更酷一些！”：小众的自定义优化器](https://kexue.fm/archives/5879)
 - [用时间换取效果：Keras梯度累积优化器](https://kexue.fm/archives/6794)
 - [Keras实现两个优化器：Lookahead和LazyOptimizer](https://kexue.fm/archives/6869)
@@ -53,6 +59,5 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - [【AI初识境】为了围剿SGD大家这些年想过的那十几招(从momentum到Adabound)](https://zhuanlan.zhihu.com/p/57860231)
 - [【炼丹技巧】功守道：NLP中的对抗训练 + PyTorch实现](https://zhuanlan.zhihu.com/p/91269728)
 - [一文搞懂NLP中的对抗训练](https://zhuanlan.zhihu.com/p/103593948?utm_source=wechat_session&utm_medium=social&utm_oi=56756566753280)
-
-## English Blog
+### English Blog
 - [AdamW and Super-convergence is now the fastest way to train neural nets](https://www.fast.ai/2018/07/02/adam-weight-decay/) [[Chinese translation version]](https://www.jiqizhixin.com/articles/2018-07-03-14)
