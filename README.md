@@ -46,6 +46,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 
 ## Repository & Tool
 - [lessw2020/Best-Deep-Learning-Optimizers](https://github.com/lessw2020/Best-Deep-Learning-Optimizers) - Collection of the latest, greatest, deep learning optimizers for PyTorch - ***DiffMod***
+- [jettify/pytorch-optimizer](https://github.com/jettify/pytorch-optimizer)
 
 ## Blog Post
 ### Chinese Blog
