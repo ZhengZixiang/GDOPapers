@@ -50,15 +50,18 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 
 ## Blog Post
 ### Chinese Blog
-- [“让Keras更酷一些！”：小众的自定义优化器](https://kexue.fm/archives/5879)
-- [用时间换取效果：Keras梯度累积优化器](https://kexue.fm/archives/6794)
-- [Keras实现两个优化器：Lookahead和LazyOptimizer](https://kexue.fm/archives/6869)
+- [科学空间 / “让Keras更酷一些！”：小众的自定义优化器](https://kexue.fm/archives/5879)
+- [科学空间 / 用时间换取效果：Keras梯度累积优化器](https://kexue.fm/archives/6794)
+- [科学空间 / Keras实现两个优化器：Lookahead和LazyOptimizer](https://kexue.fm/archives/6869)
 - [LazyOptimizer的知乎回答](https://www.zhihu.com/question/265357659/answer/580469438)
-- [6个派生优化器的简单介绍及其实现](https://kexue.fm/archives/7094)
-- [知乎回答 - 神经网络中 warmup 策略为什么有效；有什么理论解释么？](https://www.zhihu.com/question/338066667/answer/771252708)
+- [科学空间 / 6个派生优化器的简单介绍及其实现](https://kexue.fm/archives/7094)
+- [知乎回答 / 神经网络中 warmup 策略为什么有效；有什么理论解释么？](https://www.zhihu.com/question/338066667/answer/771252708)
 - [香侬读 | Transformer中warm-up和LayerNorm的重要性探究](https://zhuanlan.zhihu.com/p/84614490)
 - [【AI初识境】为了围剿SGD大家这些年想过的那十几招(从momentum到Adabound)](https://zhuanlan.zhihu.com/p/57860231)
 - [【炼丹技巧】功守道：NLP中的对抗训练 + PyTorch实现](https://zhuanlan.zhihu.com/p/91269728)
 - [一文搞懂NLP中的对抗训练](https://zhuanlan.zhihu.com/p/103593948?utm_source=wechat_session&utm_medium=social&utm_oi=56756566753280)
+- [科学空间 / 对抗训练浅谈：意义、方法和思考（附Keras实现）](https://kexue.fm/archives/7234)
+- [科学空间 / 泛化性乱弹：从随机噪声、梯度惩罚到虚拟对抗训练](https://kexue.fm/archives/7466)
+
 ### English Blog
 - [AdamW and Super-convergence is now the fastest way to train neural nets](https://www.fast.ai/2018/07/02/adam-weight-decay/) [[Chinese translation version]](https://www.jiqizhixin.com/articles/2018-07-03-14)
